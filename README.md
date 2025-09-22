@@ -5,7 +5,12 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-Assunto:  
+- Martin Lange de Assis
+- Luís Felipe de Castilho
+- Gabriel de Souza Klauck
+- Maria Júlia Testoni
+
+Assunto: RA - Realidade Aumentada  
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
